@@ -18,4 +18,14 @@
     - Used the torch.nn library to referene the Module class.
     - Created three linear layers and added Relu to them.
 
-- Part(c)
+- Part(c): Using Tensorflow capabilities for building neural networks 
+  - Part(a): 
+    - Generate data using Tensorflow and build network without model subclassing and autodifferentiation
+  - Part(b):
+    - On the generated train by applying autodifferentiation.
+    - Used SGD for the optimizer 
+  - Part(c: 
+    - Added a Dropout layer for model subclassing
+- 
+- References:
+  - https://docs.google.com/presentation/d/1bOpBbthfNXBakDWb_qezukZ-XgjvlwTvwVLVjrxxAh0/edit#slide=id.gba781d8381_31_12)
