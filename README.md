@@ -25,7 +25,8 @@
     - On the generated train by applying autodifferentiation.
     - Used SGD for the optimizer 
   - Part(c: 
-    - Added a Dropout layer for model subclassing
-- 
+    - Added a tf.keras.Model for model subclassing
+    - Used Adam for the optimizer 
+  
 - References:
   - https://docs.google.com/presentation/d/1bOpBbthfNXBakDWb_qezukZ-XgjvlwTvwVLVjrxxAh0/edit#slide=id.gba781d8381_31_12)
